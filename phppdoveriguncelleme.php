@@ -13,10 +13,4 @@ if(isset($_POST['güncelle'])){
         $yenideger, $eskideger
     ]);
 }
-
-
-
-
-
-
 ?>
